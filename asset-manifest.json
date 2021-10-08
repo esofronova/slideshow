@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/slideshow/static/css/main.41b0e20b.chunk.css",
+    "main.js": "/slideshow/static/js/main.549f6eca.chunk.js",
+    "main.js.map": "/slideshow/static/js/main.549f6eca.chunk.js.map",
+    "runtime-main.js": "/slideshow/static/js/runtime-main.c212587d.js",
+    "runtime-main.js.map": "/slideshow/static/js/runtime-main.c212587d.js.map",
+    "static/css/2.f2512455.chunk.css": "/slideshow/static/css/2.f2512455.chunk.css",
+    "static/js/2.098ac339.chunk.js": "/slideshow/static/js/2.098ac339.chunk.js",
+    "static/js/2.098ac339.chunk.js.map": "/slideshow/static/js/2.098ac339.chunk.js.map",
+    "index.html": "/slideshow/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/slideshow/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.41b0e20b.chunk.css.map": "/slideshow/static/css/main.41b0e20b.chunk.css.map",
+    "static/js/2.098ac339.chunk.js.LICENSE.txt": "/slideshow/static/js/2.098ac339.chunk.js.LICENSE.txt",
+    "static/media/las-vegas.3e272aab.jpg": "/slideshow/static/media/las-vegas.3e272aab.jpg",
+    "static/media/los-angeles.3a554108.jpg": "/slideshow/static/media/los-angeles.3a554108.jpg",
+    "static/media/miami.b8299b28.jpg": "/slideshow/static/media/miami.b8299b28.jpg",
+    "static/media/new-york.7507397a.jpg": "/slideshow/static/media/new-york.7507397a.jpg",
+    "static/media/san-francisco.807acdaf.jpg": "/slideshow/static/media/san-francisco.807acdaf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c212587d.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.098ac339.chunk.js",
+    "static/css/main.41b0e20b.chunk.css",
+    "static/js/main.549f6eca.chunk.js"
+  ]
+}
